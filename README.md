@@ -1,1 +1,3 @@
-There is nothing here for now.
+# Bioinfo@Lund
+
+There is nothing here for now, exciting projects hopefully soon.
